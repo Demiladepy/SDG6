@@ -77,7 +77,7 @@ Focus: Feature engineering and time-series analysis
 To replicate this project:
 
 1. **Obtain the JMP Dataset**  
-   Download the *Estimates on the Use of Water (2000–2020)* from WHO/UNICEF JMP.
+   Download the *Estimates on the Use of Water (2000–2025)* from WHO/UNICEF JMP.
 
 2. **Import & Clean**  
    Load the dataset into **Google Sheets** or **Microsoft Excel** and perform initial cleaning.
