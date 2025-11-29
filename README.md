@@ -7,7 +7,7 @@ The primary focus is to analyze inequalities in service levels across countries 
 
 > SDG 6 aims to "Ensure availability and sustainable management of water and sanitation for all."
 
-Through this analysis, we seek to understand the progress made and the remaining gaps between **2000 and 2020**.
+Through this analysis, we seek to understand the progress made and the remaining gaps between **2000 and 2025**.
 
 ---
 
